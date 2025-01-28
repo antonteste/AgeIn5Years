@@ -1,0 +1,14 @@
+D:\project\code\C sharp\name\bin\Debug\net9.0\name.exe
+D:\project\code\C sharp\name\bin\Debug\net9.0\name.deps.json
+D:\project\code\C sharp\name\bin\Debug\net9.0\name.runtimeconfig.json
+D:\project\code\C sharp\name\bin\Debug\net9.0\name.dll
+D:\project\code\C sharp\name\bin\Debug\net9.0\name.pdb
+D:\project\code\C sharp\name\obj\Debug\net9.0\name.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\code\C sharp\name\obj\Debug\net9.0\name.AssemblyInfoInputs.cache
+D:\project\code\C sharp\name\obj\Debug\net9.0\name.AssemblyInfo.cs
+D:\project\code\C sharp\name\obj\Debug\net9.0\name.csproj.CoreCompileInputs.cache
+D:\project\code\C sharp\name\obj\Debug\net9.0\name.dll
+D:\project\code\C sharp\name\obj\Debug\net9.0\refint\name.dll
+D:\project\code\C sharp\name\obj\Debug\net9.0\name.pdb
+D:\project\code\C sharp\name\obj\Debug\net9.0\name.genruntimeconfig.cache
+D:\project\code\C sharp\name\obj\Debug\net9.0\ref\name.dll
